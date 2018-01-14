@@ -1,0 +1,2 @@
+# lintCode
+practice on lintCode
